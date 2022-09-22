@@ -21,7 +21,7 @@ will open
 <a href="https://leaflet-iiif-geojson.glitch.me/?manifest=https://media.getty.edu/iiif/manifest/85f146bd-257f-4ecf-bd2c-50beb045fda5" target="_blank"><b>The Drawing Lesson</b></a> by Jan Steen inside Leaflet-IIIF-GeoJSON
 
 
-## Examples of Images Displayed in Leaflet-IIIF-GeoJSON with GeoJSON Data
+## Examples of Images in Leaflet-IIIF-GeoJSON with GeoJSON Data
 <a href="https://leaflet-iiif-geojson.glitch.me/?manifest=https://media.getty.edu/iiif/manifest/85f146bd-257f-4ecf-bd2c-50beb045fda5" target="_blank"><b>The Drawing Lesson by Jan Steen</b></a> with <a href="https://github.com/mapsmania/Leaflet-IIIF-GeoJSON/blob/main/geojson/steen.geojson" target="_blank"><b>steen.geojson</b></a>
 
 <a href="https://leaflet-iiif-geojson.glitch.me/?manifest=https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=1138" target="_blank"><b>Feast of the Gods by Giovanni Bellini</b></a> with <a href="https://github.com/mapsmania/Leaflet-IIIF-GeoJSON/blob/main/geojson/bellini.geojson" target="_blank"><b>bellini.geojson</b></a>
