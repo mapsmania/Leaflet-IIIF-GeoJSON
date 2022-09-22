@@ -1,4 +1,4 @@
-Leaflet IIIF GeoJSON
+## Leaflet IIIF GeoJSON
 
 This is an interactive map which you can use to add annotations
 to an IIIF manifest.
