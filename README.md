@@ -35,6 +35,6 @@ will open
 
 <a href="https://leaflet-iiif-geojson.glitch.me/?manifest=https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=1138" target="_blank"><b>Feast of the Gods by Giovanni Bellini</b></a> with <a href="https://github.com/mapsmania/Leaflet-IIIF-GeoJSON/blob/main/geojson/bellini.geojson" target="_blank"><b>bellini.geojson</b></a>
 
-### A Warning About Loading and Exporting GeoJSON
+## A Warning About Loading and Exporting GeoJSON
 
 If you load a geoJSON file into Leaflet-IIIF-GeoJSON and then add more annotations be aware that when you 'Export GeoJSON' you will save a new geoJSON file. WARNING - this new file will only contain the annotations you have made in the current session (it will exclude all the data you loaded from your previously saved file). Your annotations will now therefore exist in two separate geoJSON files. At the moment the only way around this is to combine the two files using a  geoJSON editing application, such as geojson.io. If you open both your saved geoJSON files in <a href="http://geojson.io/" target="_blank"><b>geojson.io</b></a> and then press Save  > GeoJSON you will now have a third geoJSON file (which contains the annotations from both of your original two geoJSON files).
