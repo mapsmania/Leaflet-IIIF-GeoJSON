@@ -26,7 +26,7 @@ will open
 ### Maps
 
 
-<a href="https://leaflet-iiif-geojson.glitch.me/?manifest=https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~343041~90111248/manifest" target="_blank"><b>The Borgia World Map</b></a> with <a href="https://github.com/mapsmania/Leaflet-IIIF-GeoJSON/blob/main/geojson/steen.geojson" target="_blank"><b>borgia.geojson</b></a>
+<a href="https://leaflet-iiif-geojson.glitch.me/?manifest=https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~343041~90111248/manifest" target="_blank"><b>The Borgia World Map</b></a> with <a href="https://github.com/mapsmania/Leaflet-IIIF-GeoJSON/blob/main/geojson/borgia.geojson" target="_blank"><b>borgia.geojson</b></a>
 
 ### Paintings
 
