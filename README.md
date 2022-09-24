@@ -22,6 +22,15 @@ will open
 
 
 ## Examples of Images in Leaflet-IIIF-GeoJSON with GeoJSON Data
+ 
+### Maps
+
+
+<a href="https://leaflet-iiif-geojson.glitch.me/?manifest=https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~343041~90111248/manifest" target="_blank"><b>The Borgia World Map</b></a> with <a href="https://github.com/mapsmania/Leaflet-IIIF-GeoJSON/blob/main/geojson/steen.geojson" target="_blank"><b>borgia.geojson</b></a>
+
+### Paintings
+
+
 <a href="https://leaflet-iiif-geojson.glitch.me/?manifest=https://media.getty.edu/iiif/manifest/85f146bd-257f-4ecf-bd2c-50beb045fda5" target="_blank"><b>The Drawing Lesson by Jan Steen</b></a> with <a href="https://github.com/mapsmania/Leaflet-IIIF-GeoJSON/blob/main/geojson/steen.geojson" target="_blank"><b>steen.geojson</b></a>
 
 <a href="https://leaflet-iiif-geojson.glitch.me/?manifest=https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=1138" target="_blank"><b>Feast of the Gods by Giovanni Bellini</b></a> with <a href="https://github.com/mapsmania/Leaflet-IIIF-GeoJSON/blob/main/geojson/bellini.geojson" target="_blank"><b>bellini.geojson</b></a>
